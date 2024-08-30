@@ -1,6 +1,5 @@
 - hello, i’m @eon-tries-coding
-- i’m interested in learning about software development
-- i’m currently learning... something... idk
+- i’m currently learning web and mobile computing
 - wish me luck, everyone!
 
 <!---
